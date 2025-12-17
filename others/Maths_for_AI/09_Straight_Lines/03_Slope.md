@@ -153,7 +153,8 @@ $$
 ---
 ## 2. Application: Optimizing Hospital Beds (Parallelism)
 
-![Hospital bed slope and parallelism illustration](hospital%20bed%20image.png)
+![Hospital bed slope and parallelism illustration](https://github.com/meghanakondeti33/Images/blob/main/Images/hospital%20bed%20image.png)
+
 
 
 
