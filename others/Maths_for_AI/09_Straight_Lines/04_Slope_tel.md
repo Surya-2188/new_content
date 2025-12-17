@@ -150,7 +150,8 @@ $$
 
 అన్ని బెడ్స్‌కు ఒకే స్లోప్ ఉండాలి:
 
-![Hospital bed slope and parallelism illustration](hospital%20bed%20image.png)
+![Hospital bed slope and parallelism illustration](https://github.com/meghanakondeti33/Images/blob/main/Images/hospital%20bed%20image.png)
+
 
 $$
 m_1 = m_2 = m_3 = \dots
