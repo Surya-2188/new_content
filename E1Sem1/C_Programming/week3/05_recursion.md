@@ -198,7 +198,7 @@ We imagine each active function as a **box** on the stack.
 
 
 Let’s look at the diagram above (Figure 1). Each small box is a **Stack Frame** – a record of which function is currently active. The arrow labelled “stack top” always points to the function that is currently executing. We read the figure from left to right like a story.
-![alt text](recursion_image.jpg)
+![alt text](Gemini_Generated_Image_hb3ytthb3ytthb3y.png)
 
 
 **Panel 1 – `main` calls `func1()`**
