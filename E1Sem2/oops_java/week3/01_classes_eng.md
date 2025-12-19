@@ -498,6 +498,5 @@ c1.getEstimatedInterest(4.0);
  * **Return Method:** Does a calculation, gives back an answer (e.g., `getEstimatedInterest`).
 
 
-**Next Step:**
-"This concludes the lecture material. Would you like me to prepare a **10-question multiple-choice quiz** based on this lecture to test the students at the end of the class?"
+
 

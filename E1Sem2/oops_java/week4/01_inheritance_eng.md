@@ -559,5 +559,5 @@ Inheritance is the backbone of Object-Oriented Programming.
 
 
 **Next Step:**
-"Now that the structure is set, what happens if the Child class wants to **change** the behavior of a Parent method? (e.g., A Teacher's `viewProfile` should look different from a Student's). This is called **Method Overriding**, which we will cover next."
+"Now that the structure is set, what happens if the Child class wants to **change** the behavior of a Parent method? (e.g., A Teacher's `viewProfile` should look different from a Student's). This is called **Method Overriding**"
 

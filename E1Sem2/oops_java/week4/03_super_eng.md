@@ -342,5 +342,4 @@ Together, they complete the foundation of inheritance in Java.
 
 
 **Next Step:**
-"Now that we know how Child and Parent interact, what happens when a Child class changes the definition of a Parent's method entirely? This is called **Method Overriding** (Polymorphism). Shall we start that?"
-
+"Now that we know how Child and Parent interact, what happens when a Child class changes the definition of a Parent's method entirely? This is called **Method Overriding** (Polymorphism).

@@ -237,7 +237,7 @@ Email: ravi@college.com
 Roll : CSE102
 Class: CSE-A
 Role : Class Representative
-📢 CR Ravi Announcement: Tomorrow assignment submission!
+CR Ravi Announcement: Tomorrow assignment submission!
 -----
 PERSON INFO
 Name : Meena
@@ -250,14 +250,14 @@ Name : Dr. Meera
 Email: meera@college.com
 Department: CSE
 Role      : Head of Department
-📢 HOD Dr. Meera Notification: Department meeting at 3 PM
+HOD Dr. Meera Notification: Department meeting at 3 PM
 ```
 
 
 -----
 
 
-## 🏦 ప్రాజెక్ట్ 2 — బ్యాంక్ మేనేజ్‌మెంట్ సిస్టమ్
+## ప్రాజెక్ట్ 2 — బ్యాంక్ మేనేజ్‌మెంట్ సిస్టమ్
 
 
 ### 1️⃣ అసలు సమస్య

@@ -1,4 +1,4 @@
-# 🎓 PROJECT: Building Real Systems with OOP
+# PROJECT: Building Real Systems with OOP
 
 
 **(Why Overriding & Super Are Essential)**
@@ -10,7 +10,7 @@
 -----
 
 
-## 🏫 PROJECT 1 — STUDENT MANAGEMENT SYSTEM
+##  PROJECT 1 — STUDENT MANAGEMENT SYSTEM
 
 
 ###  1️⃣ REAL-WORLD PROBLEM
@@ -235,7 +235,7 @@ Email: ravi@college.com
 Roll : CSE102
 Class: CSE-A
 Role : Class Representative
-📢 CR Ravi Announcement: Tomorrow assignment submission!
+CR Ravi Announcement: Tomorrow assignment submission!
 -----
 PERSON INFO
 Name : Meena
@@ -248,14 +248,14 @@ Name : Dr. Meera
 Email: meera@college.com
 Department: CSE
 Role      : Head of Department
-📢 HOD Dr. Meera Notification: Department meeting at 3 PM
+HOD Dr. Meera Notification: Department meeting at 3 PM
 ```
 
 
 -----
 
 
-## 🏦 PROJECT 2 — BANK MANAGEMENT SYSTEM
+##  PROJECT 2 — BANK MANAGEMENT SYSTEM
 
 
 ###  1️⃣ REAL-WORLD PROBLEM
